@@ -1,0 +1,41 @@
+John Doe
+Software Engineer
+john.doe@email.com
+(555) 123-4567
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 5+ years of experience in full-stack development, specializing in React, Node.js, and cloud technologies.
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+TechCorp Inc.
+2021 - Present
+- Led development of microservices architecture using Node.js and Docker
+- Implemented CI/CD pipelines with GitHub Actions and AWS
+- Mentored junior developers and conducted code reviews
+- Reduced API response time by 40% through optimization
+
+Software Engineer
+StartupXYZ
+2019 - 2021
+- Developed React-based web applications
+- Worked with MongoDB and PostgreSQL databases
+- Collaborated with design team on UI/UX improvements
+- Participated in agile development processes
+
+Junior Developer
+WebSolutions
+2018 - 2019
+- Built responsive websites using HTML, CSS, and JavaScript
+- Assisted with backend development using PHP
+- Fixed bugs and implemented new features
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+University of Technology
+2018
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, Python, Java, Docker, Kubernetes, AWS, Azure, MongoDB, PostgreSQL, MySQL, Git, GitHub, CI/CD, Agile, Scrum, JIRA, REST APIs, GraphQL, Microservices
